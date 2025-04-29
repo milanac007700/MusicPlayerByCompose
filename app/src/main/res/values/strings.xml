@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicPlayerByCompose</string>
+    <string name="permission_request_tip">本App需要存储权限才能正常使用</string>
+    <string name="close">关闭</string>
+    <string name="tip_nodata">列表空空如也</string>
+    <string name="tip_nolrc">暂无歌词</string>
+</resources>
